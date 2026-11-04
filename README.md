@@ -1,28 +1,28 @@
 # 🚀 Project 100 – Audit Log System | System Design Level | Full Stack DevOps
 
-[Java 17](https://img.shields.io/badge/Java-17-E76F00?logo=openjdk&logoColor=white)
-[Spring Boot 3.2.5](https://img.shields.io/badge/Spring%20Boot-3.2.5-6DB33F?logo=springboot&logoColor=white)
-[Caching](https://img.shields.io/badge/Caching-Caffeine%201000%20max%20600s%20expire%20Stats-blue?logo=redis&logoColor=white)
-[Cache Stats](https://img.shields.io/badge/Cache%20Stats-recordStats%20enabled-brightgreen)
-[Security](https://img.shields.io/badge/Security-Headers%20nosniff%20DENY%20XSS-red?logo=springsecurity&logoColor=white)
-[Builder Pattern](https://img.shields.io/badge/Builder%20Pattern-AuditLog.Builder%20Fluent%20API-success?logo=java&logoColor=white)
-[Strategy Pattern](https://img.shields.io/badge/Strategy%20Pattern-User%20vs%20Action%20vs%20Resource%20vs%20Hybrid-yellow?logo=elasticsearch&logoColor=white)
-[Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-JpaRepository-6DB33F)
-[H2 Database](https://img.shields.io/badge/H2-Database%20auditdb-003545?logo=h2&logoColor=white)
-[viewCount](https://img.shields.io/badge/viewCount-Added%20%2B%20idx__user%20%2B%20idx__action-orange)
-[JUnit 5](https://img.shields.io/badge/JUnit-5%206%2F6%20Green-25A162?logo=junit5&logoColor=white)
-[Mockito](https://img.shields.io/badge/Mockito-Mocked%20Repo%20when%2Fverify-00BFFF)
-[Audit Log Pattern](https://img.shields.io/badge/Audit%20Log-Pattern%20User%20Action%20Resource%20Hybrid-blueviolet?logo=elasticsearch&logoColor=white)
-[Docker](https://img.shields.io/badge/Docker-Multi--Stage-2496ED?logo=docker&logoColor=white)
-[Render](https://img.shields.io/badge/Render-Live%203m49s-brightgreen?logo=render&logoColor=white)
-[Tomcat](https://img.shields.io/badge/Apache%20Tomcat-10.1.20-D4AF00?logo=apachetomcat&logoColor=white)
-[Port](https://img.shields.io/badge/Port-8102-00BFFF)
-[Status](https://img.shields.io/badge/Status-Audit%20Log%20Live%20Tier%2010-brightgreen)
-[Tier 10](https://img.shields.io/badge/Tier%2010-System%20Design%20Level%20SCALE-blueviolet)
+![Java 17](https://img.shields.io/badge/Java-17-E76F00?logo=openjdk&logoColor=white)
+![Spring Boot 3.2.5](https://img.shields.io/badge/Spring%20Boot-3.2.5-6DB33F?logo=springboot&logoColor=white)
+![Caching](https://img.shields.io/badge/Caching-Caffeine%201000%20max%20600s%20expire%20Stats-blue?logo=redis&logoColor=white)
+![Cache Stats](https://img.shields.io/badge/Cache%20Stats-recordStats%20enabled-brightgreen)
+![Security](https://img.shields.io/badge/Security-Headers%20nosniff%20DENY%20XSS-red?logo=springsecurity&logoColor=white)
+![Builder Pattern](https://img.shields.io/badge/Builder%20Pattern-AuditLog.Builder%20Fluent%20API-success?logo=java&logoColor=white)
+![Strategy Pattern](https://img.shields.io/badge/Strategy%20Pattern-User%20vs%20Action%20vs%20Resource%20vs%20Hybrid-yellow?logo=elasticsearch&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-JpaRepository-6DB33F)
+![H2 Database](https://img.shields.io/badge/H2-Database%20auditdb-003545?logo=h2&logoColor=white)
+![viewCount](https://img.shields.io/badge/viewCount-Added%20%2B%20idx__user%20%2B%20idx__action-orange)
+![JUnit 5](https://img.shields.io/badge/JUnit-5%206%2F6%20Green-25A162?logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-Mocked%20Repo%20when%2Fverify-00BFFF)
+![Audit Log Pattern](https://img.shields.io/badge/Audit%20Log-Pattern%20User%20Action%20Resource%20Hybrid-blueviolet?logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Multi--Stage-2496ED?logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-Live%203m49s-brightgreen?logo=render&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-10.1.20-D4AF00?logo=apachetomcat&logoColor=white)
+![Port](https://img.shields.io/badge/Port-8102-00BFFF)
+![Status](https://img.shields.io/badge/Status-Audit%20Log%20Live%20Tier%2010-brightgreen)
+![Tier 10](https://img.shields.io/badge/Tier%2010-System%20Design%20Level%20SCALE-blueviolet)
 
 **Live URL:** https://one00-audit-log-system.onrender.com/
 
-[[Live](https://img.shields.io/badge/Live-Render-brightgreen?style=for-the-badge&logo=render)](https://one00-audit-log-system.onrender.com)
+[![Live](https://img.shields.io/badge/Live-Render-brightgreen?style=for-the-badge&logo=render)](https://one00-audit-log-system.onrender.com)
 
 Project 100 - Part of Java 102 Projects Challenge - System Design Level Tier 10 SCALE
 ---
@@ -185,87 +185,87 @@ This is Project 100 of Tier 10 - SCALE - After Multi-tenant SaaS (99), now real 
 # 📸 Screenshots - 17 Demos - Audit Log System Verified - Live on Render 3m 49s
 
 ### Demo 1 – Browser - GET / - Home Live JSON - Audit Log System Tier 10 SCALE
-[Demo1 Home](screenshots/demo1.png)
+![Demo1 Home](screenshots/demo1.png)
 
 *GET http://localhost:8102/ - Browser - 200 OK - Returns {"status":"UP","service":"Audit Log System","features":["User-Based Audit","Action-Based Audit","Resource-Based Audit","Hybrid Sorted","Search","Count","Info"],"endpoints":{...},"live_url":"https://one00-audit-log-system.onrender.com","author":"Ravi Teja"} - Proof of Home Live - Portfolio ready - Tier 10 SCALE 100/102 - 98%*
 
 ### Demo 2 – Browser - GET /health - UP - Caching + Security + Audit Active
-[Demo2 Health](screenshots/demo2.png)
+![Demo2 Health](screenshots/demo2.png)
 
 *GET http://localhost:8102/health - Browser - 200 OK - Returns {"status":"UP","database":"H2","databaseName":"auditdb","caching":"Caffeine","cacheManager":"Caffeine","cacheSpec":"maximumSize=1000,expireAfterAccess=600s,recordStats","securityHeaders":"X-Content-Type-Options nosniff, X-Frame-Options DENY, X-XSS-Protection","patterns":["Builder","Strategy","Repository","Caching"],"features":["audit-log","user-action-resource"]} - Proof of Health Endpoint - Tier 10 Health Check*
 
 ### Demo 3 – Browser - GET /api/audit - Empty List - Before Create
-[Demo3 Empty List](screenshots/demo3.png)
+![Demo3 Empty List](screenshots/demo3.png)
 
 *GET http://localhost:8102/api/audit - Browser - 200 OK - Returns [] - Empty JSON array - Proof of List Endpoint Working - No data yet - H2 file empty - Caching auditLogs cache ready*
 
 ### Demo 4 – Postman - POST /api/audit - 200 OK - id 1 - Builder Pattern + CLEAN without \n - CREATE
-[Demo4 Create CREATE](screenshots/demo4.png)
+![Demo4 Create CREATE](screenshots/demo4.png)
 
 *POST http://localhost:8102/api/audit?userId=user1&action=CREATE&resource=USER&resourceId=res1&details=User%20created&ipAddress=127.0.0.1&severity=INFO - 200 OK Time 220 ms Size 484 B - Returns id 1 userId user1 action CREATE resource USER resourceId res1 details User created ipAddress 127.0.0.1 severity INFO timestamp 2026-11-04T22:34:39.444317 value User created viewCount 0 dataValue User created - Builder Pattern - trim() fix*
 
 ### Demo 5 – Postman - POST /api/audit - 200 OK - id 2 - UPDATE CLEAN
-[Demo5 Create UPDATE](screenshots/demo5.png)
+![Demo5 Create UPDATE](screenshots/demo5.png)
 
 *POST http://localhost:8102/api/audit?userId=user1&action=UPDATE&resource=ORDER&resourceId=res2&details=Order%20updated&ipAddress=192.168.1.1&severity=WARN - 200 OK Time 20 ms Size 489 B - Returns id 2 userId user1 action UPDATE resource ORDER resourceId res2 details Order updated ipAddress 192.168.1.1 severity WARN timestamp 2026-11-04T22:35:38.415573 value Order updated viewCount 0 dataValue Order updated*
 
 ### Demo 6 – Postman - POST /api/audit - 200 OK - id 3 - DELETE CLEAN
-[Demo6 Create DELETE](screenshots/demo6.png)
+![Demo6 Create DELETE](screenshots/demo6.png)
 
 *POST http://localhost:8102/api/audit?userId=user2&action=DELETE&resource=PRODUCT&resourceId=res3&details=Product%20deleted&ipAddress=10.0.0.1&severity=ERROR - 200 OK Time 22 ms Size 493 B - Returns id 3 userId user2 action DELETE resource PRODUCT resourceId res3 details Product deleted ipAddress 10.0.0.1 severity ERROR timestamp 2026-11-04T22:36:01.998587 value Product deleted viewCount 0 dataValue Product deleted - user2 isolation*
 
 ### Demo 7 – Postman - POST /api/audit - 200 OK - id 4 - LOGIN CLEAN
-[Demo7 Create LOGIN](screenshots/demo7.png)
+![Demo7 Create LOGIN](screenshots/demo7.png)
 
 *POST http://localhost:8102/api/audit?userId=user1&action=LOGIN&resource=AUTH&resourceId=res4&details=User%20login&ipAddress=127.0.0.1&severity=INFO - 200 OK Time 30 ms Size 479 B - Returns id 4 userId user1 action LOGIN resource AUTH resourceId res4 details User login ipAddress 127.0.0.1 severity INFO timestamp 2026-11-04T22:36:31.596858 value User login viewCount 0 dataValue User login - AUTH resource*
 
 ### Demo 8 – Postman - GET /api/audit - With 4 Logs - viewCount + CLEAN without \n
-[Demo8 List 4 Items](screenshots/demo8.png)
+![Demo8 List 4 Items](screenshots/demo8.png)
 
 *GET http://localhost:8102/api/audit - Browser - 200 OK - Returns 4 logs id 4 LOGIN AUTH res4 User login + id 3 DELETE PRODUCT res3 Product deleted + id 2 UPDATE ORDER res2 Order updated + id 1 CREATE USER res1 User created - Ordered by createdAtDesc timestamp DESC 22:36:31 22:36:01 22:35:38 22:34:39 - viewCount 0 + timestamp - Proof of List Persistence - H2 - idx_user + idx_action + X-Cache: Caffeine - CLEAN without \n - data_value fix*
 
 ### Demo 9 – Postman - GET /api/audit/strategy?type=user&filter=user1 - User count 3
-[Demo9 User Strategy](screenshots/demo9.png)
+![Demo9 User Strategy](screenshots/demo9.png)
 
 *GET http://localhost:8102/api/audit/strategy?type=user&filter=user1 - Browser - 200 OK - Returns 3 items id 1 CREATE USER res1 + id 2 UPDATE ORDER res2 + id 4 LOGIN AUTH res4 - User isolation - user1 logs only - CLEAN timestamps 22:34:39 22:35:38 22:36:31*
 
 ### Demo 10 – Postman - GET /api/audit/strategy?type=action&filter=CREATE - Action count 1
-[Demo10 Action Strategy](screenshots/demo10.png)
+![Demo10 Action Strategy](screenshots/demo10.png)
 
 *GET http://localhost:8102/api/audit/strategy?type=action&filter=CREATE - Browser - 200 OK - Returns 1 item id 1 CREATE USER res1 User created 127.0.0.1 INFO - Action-Strategy - Only CREATE action - CLEAN*
 
 ### Demo 11 – Postman - GET /api/audit/strategy?type=resource&filter=USER - Resource count 1 FIXED from [] - CRITICAL
-[Demo11 Resource FIXED](screenshots/demo11.png)
+![Demo11 Resource FIXED](screenshots/demo11.png)
 
 *GET http://localhost:8102/api/audit/strategy?type=resource&filter=USER - Browser - 200 OK - Returns 1 item id 1 CREATE USER res1 User created 127.0.0.1 INFO value User created - FIXED FROM [] EMPTY - CRITICAL PROOF trim() fix - Was [] empty due to resource="USER\n" bug - Now CLEAN without \n returns 1 item - Core Tier 10 Fix - Same as 99 isolated fix - Most important demo - Proof of Bug Fix*
 
 ### Demo 12 – Postman - GET /api/audit/strategy?type=hybrid - Hybrid count 4 sorted timestamp DESC - Core Feature
-[Demo12 Hybrid Sorted](screenshots/demo12.png)
+![Demo12 Hybrid Sorted](screenshots/demo12.png)
 
 *GET http://localhost:8102/api/audit/strategy?type=hybrid - Browser - 200 OK - Returns 4 items id 4 LOGIN 22:36:31 + id 3 DELETE 22:36:01 + id 2 UPDATE 22:35:38 + id 1 CREATE 22:34:39 - Sorted by timestamp DESC 22:36:31 then 22:36:01 then 22:35:38 then 22:34:39 - Hybrid-Strategy - Core Tier 10 Feature - Audit Compliance sorted - Most important demo - Same as 99 hybrid sorted 4.8 4.5 4.2 but for timestamp - CLEAN timestamps*
 
 ### Demo 13 – Browser - GET /api/audit/count - Count 4
-[Demo13 Count](screenshots/demo13.png)
+![Demo13 Count](screenshots/demo13.png)
 
 *GET http://localhost:8102/api/audit/count - Browser - 200 OK - Returns 4 - Count proof - Pretty-print - Total 4 logs - Count endpoint*
 
 ### Demo 14 – Browser - GET /api/audit/info - Info Tier 10 SCALE
-[Demo14 Info](screenshots/demo14.png)
+![Demo14 Info](screenshots/demo14.png)
 
 *GET http://localhost:8102/api/audit/info - Browser - 200 OK - Returns Audit Log System - Tier 10 SCALE - Caching Caffeine 1000 max 600s Stats + Security Headers + Builder Pattern + Strategy Pattern User Action Resource Hybrid + Repository Pattern + H2 auditdb + JUnit 5 6/6 Green Bar - Info proof - Tier 10 - Same as 99 info*
 
 ### Demo 15 – Browser - GET /api/audit/search?action=CREATE - Search count 1
-[Demo15 Search](screenshots/demo15.png)
+![Demo15 Search](screenshots/demo15.png)
 
 *GET http://localhost:8102/api/audit/search?action=CREATE - Browser - 200 OK - Returns 1 item id 1 CREATE USER res1 User created 127.0.0.1 INFO timestamp 22:34:39.444317 viewCount 0 dataValue User created - Search proof - Search by action CREATE - viewCount 0*
 
 ### Demo 16 – Eclipse JUnit - Green Bar - 6/6 Tests Passed - 5.328s - FIXED [] bug
-[Demo16 JUnit Green](screenshots/demo16.png)
+![Demo16 JUnit Green](screenshots/demo16.png)
 
 *Eclipse JUnit - Finished after 5.328 seconds - Runs: 6/6 Errors: 0 Failures: 0 Green Bar - AuditLogServiceTest [Runner: JUnit 5] (4.885 s) - testBuilderPattern 4.624 s + testFormatAuditLogInfo 0.102 s + testSearchByAction_Mockito 0.143 s + testGetAllAuditLog_Mockito 0.019 s + testAuditLogEntity 0.015 s + testGetAuditLogById_Mockito 0.131 s - Was 2/2 Tier 5 -> Now 6/6 Tier 10 - FIXED [] bug with trim() - 5.328s - Same as 99 5.798s - JUnit Green*
 
 ### Demo 17 – Render - Deploy succeeded Live - DURATION 3m 49s - Your service is live - e1db93e - 88.801s
-[Demo17 Render Live 3m49s](screenshots/demo17.png)
+![Demo17 Render Live 3m49s](screenshots/demo17.png)
 
 *Render Dashboard - 100-audit-log-system - STATUS Deploy succeeded | Live Green Tick - DURATION 3m 49s - DEPLOYED Nov 4 2026 at 11:57:42 PM GMT+5:30 - TRIGGER First Deploy - SOURCE e1db93e - Tomcat started on port 10000 - Started AuditLogSystemApplication in 88.801 seconds (process running for 98.293) - Your service is live - Available at primary URL https://one00-audit-log-system.onrender.com - Initializing Spring DispatcherServlet - Completed initialization in 94 ms - Proof of Production Live - Same as 99 Live 2m50s - Tier 10 SCALE 100/102 98% - e1db93e latest fix*
 
